@@ -150,16 +150,15 @@
 }
 
 .lots {
-    padding: 0 50px;
-    margin-bottom: 180px;
     padding: 180px 24px 0;
 }
 
 .lots__heading {
+    margin: 0 0 27px ;
+    padding-left: 40px;
     font-size: 40px;
-    font-weight: 700;
+    line-height: 48px;
     text-transform: uppercase;
-    margin-bottom: 27px;
 }
 
 .lots__card-list {
